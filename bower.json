@@ -1,0 +1,20 @@
+{
+  "name": "trivago",
+  "description": "",
+  "main": "index.js",
+  "authors": [
+    "vaishali shahare <vaishali.shahare21@gmail.com>"
+  ],
+  "license": "ISC",
+  "homepage": "https://github.com/Vaishali-Shahare/trivago",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap-css": "^3.3.7"
+  }
+}
